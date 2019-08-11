@@ -1,0 +1,16 @@
+C:\Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll.config
+C:\Training\Training.DataAccess\bin\Debug\Training.DataAccess.dll
+C:\Training\Training.DataAccess\bin\Debug\Training.DataAccess.pdb
+C:\Training\Training.DataAccess\bin\Debug\EntityFramework.dll
+C:\Training\Training.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Training\Training.DataAccess\bin\Debug\EntityFramework.xml
+C:\Training\Training.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Training\Training.DataAccess\obj\Debug\Training.DataAccess.csprojAssemblyReference.cache
+C:\Training\Training.DataAccess\obj\Debug\Training.DataAccess.csproj.CoreCompileInputs.cache
+C:\Training\Training.DataAccess\obj\Debug\Training.DataAccess.csproj.CopyComplete
+C:\Training\Training.DataAccess\obj\Debug\Training.DataAccess.dll
+C:\Training\Training.DataAccess\obj\Debug\Training.DataAccess.pdb
+C:\Training\Training.DataAccess\obj\Debug\Training.DataAccess.Migrations.InitialSetup.resources
+C:\Training\Training.DataAccess\obj\Debug\Training.DataAccess.csproj.GenerateResource.cache
+C:\Training\Training.DataAccess\obj\Debug\Training.DataAccess.Migrations.NewTable.resources
+C:\Training\Training.DataAccess\obj\Debug\Training.DataAccess.Migrations.UpdTable.resources
