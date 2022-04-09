@@ -28,7 +28,7 @@
     "angular2-moment": "^1.9.0",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-es6": "^1.0.0",
     "ngx-datetime-picker": "^2.1.2",
     "open-iconic": "^1.1.1",
